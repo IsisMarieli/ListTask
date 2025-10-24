@@ -1,5 +1,8 @@
 # 🧾 ListTask
 
+Trabalho acadêmico desenvolvido no **Expo Snack** para a disciplina de **Dispositivos Móveis**,  
+ministrada pelo **professor Diogo Rodrigues**.
+
 Aplicativo para **gerenciar tarefas** de forma simples e rápida.  
 Abaixo está a explicação da função de cada tela do projeto.
 
@@ -25,12 +28,12 @@ Utiliza **estados (`useState`)** para controlar as tarefas e o **`FlatList`** pa
 
 ---
 
-## Equipe 
-- Anna Luiza Gomes Sobral
-- Eychila Meirelle da Silva
-- Maria Clara Matos Duarte
-- Isis Marieli da Silva Moura 
-- Kledson Tenório dos Santos 
-- Wiviam Eshley Anacleto da Silva
+## 👩‍💻 Equipe
+- Anna Luiza Gomes Sobral  
+- Eychila Meirelle da Silva  
+- Maria Clara Matos Duarte  
+- Isis Marieli da Silva Moura  
+- Kledson Tenório dos Santos  
+- Wiviam Eshley Anacleto da Silva  
 
 ---
